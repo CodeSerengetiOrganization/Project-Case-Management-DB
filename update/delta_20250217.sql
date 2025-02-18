@@ -49,3 +49,4 @@ INSERT INTO `dbo_case` (`case_status`, `case_type`, `case_attributes`, `created_
 ('PendingDocument', 'NetNew', '{"caseAttributes": [{"category": "Business Information", "attributes": [{"attributeName": "NumberOfEmployees", "value": 50}]}]}', 'Alice', '2024-02-24 12:10:00', '2024-02-24 13:00:00', '2024-03-03 13:00:00', 'New case, awaiting further details.'),
 ('PendingReview', 'LOD', '{"caseAttributes": [{"category": "Personal Information", "attributes": [{"attributeName": "FirstName", "value": "Jane"}]}]}', 'Michael', '2024-02-25 14:50:00', '2024-02-25 15:30:00', '2024-03-04 14:30:00', 'Review case involving a name discrepancy.');
 
+##
